@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sersionctrl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15b2684a1cd000a8aadbbbe806915eaef5fe0d87")]
 [assembly: System.Reflection.AssemblyProductAttribute("sersionctrl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sersionctrl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

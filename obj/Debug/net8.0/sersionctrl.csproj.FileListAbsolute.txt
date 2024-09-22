@@ -12,3 +12,4 @@ C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\refint\sersionctrl.dll
 C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\sersionctrl.pdb
 C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\sersionctrl.genruntimeconfig.cache
 C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\ref\sersionctrl.dll
+C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\sersionctrl.sourcelink.json

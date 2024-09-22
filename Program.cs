@@ -4,19 +4,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Write("Enter the first number: ");
-        string input1 = Console.ReadLine();
-        Console.Write("Enter the second number: ");
-        string input2 = Console.ReadLine();
+        while (true)
+        {
+            Console.Write("Enter the first number (or type 'exit' to quit): ");
+            string input1 = Console.ReadLine();
+            if (input1.ToLower() == "exit") break;
 
-        // Convert inputs to integers
-        int number1 = Convert.ToInt32(input1);
-        int number2 = Convert.ToInt32(input2);
+            Console.Write("Enter the second number: ");
+            string input2 = Console.ReadLine();
 
-        // Calculate the sum
-        int sum = number1 + number2;
+            int number1 = Convert.ToInt32(input1);
+            int number2 = Convert.ToInt32(input2);
 
-        // Output the result
-        Console.WriteLine("The sum is: " + sum);
+            int sum = number1 + number2;
+            Console.WriteLine("The sum is: " + sum);
+        }
     }
 }

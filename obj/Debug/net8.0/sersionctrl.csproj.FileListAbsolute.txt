@@ -1,0 +1,14 @@
+C:\Users\GD\Desktop\sersionctrl\bin\Debug\net8.0\sersionctrl.exe
+C:\Users\GD\Desktop\sersionctrl\bin\Debug\net8.0\sersionctrl.deps.json
+C:\Users\GD\Desktop\sersionctrl\bin\Debug\net8.0\sersionctrl.runtimeconfig.json
+C:\Users\GD\Desktop\sersionctrl\bin\Debug\net8.0\sersionctrl.dll
+C:\Users\GD\Desktop\sersionctrl\bin\Debug\net8.0\sersionctrl.pdb
+C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\sersionctrl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\sersionctrl.AssemblyInfoInputs.cache
+C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\sersionctrl.AssemblyInfo.cs
+C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\sersionctrl.csproj.CoreCompileInputs.cache
+C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\sersionctrl.dll
+C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\refint\sersionctrl.dll
+C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\sersionctrl.pdb
+C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\sersionctrl.genruntimeconfig.cache
+C:\Users\GD\Desktop\sersionctrl\obj\Debug\net8.0\ref\sersionctrl.dll
